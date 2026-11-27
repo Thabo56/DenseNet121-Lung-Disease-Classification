@@ -1,0 +1,8 @@
+# Jupyter Notebooks
+This directory contains the Jupyter Notebook files used for the lung disease classification research project.
+
+## Main Implementation
+
+- Densenet_Implementation_Full_TransferLearning.ipynb
+
+This notebook contains the complete implementation of the DenseNet-121 transfer learning experiments.
